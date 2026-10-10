@@ -1,2 +1,2 @@
 # Victor_Turyahebwa_B40815_Assignment_2_Advent_2026_MiniProjects
-MSDS OOP Assignment 2 
+MSDS OOP Assignment 2

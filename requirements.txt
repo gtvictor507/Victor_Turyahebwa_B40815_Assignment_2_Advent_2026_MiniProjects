@@ -1,0 +1,8 @@
+numpy>=2.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+requests>=2.31.0
+jupyterlab>=4.2
+pytest>=7.4.0
+hypothesis>=6.80.0
+

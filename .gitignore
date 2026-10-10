@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.hypothesis/
+.ipynb_checkpoints/
+*.py[cod]
+dist/
+build/
+
