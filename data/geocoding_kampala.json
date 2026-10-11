@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "id": 232422,
+      "name": "Kampala",
+      "latitude": 0.31628,
+      "longitude": 32.58219,
+      "elevation": 1223.0,
+      "feature_code": "PPLC",
+      "country_code": "UG",
+      "admin1": "Central Region",
+      "timezone": "Africa/Kampala",
+      "population": 1353189,
+      "country": "Uganda"
+    },
+    {
+      "id": 1000001,
+      "name": "Kampala",
+      "latitude": -0.15,
+      "longitude": 30.25,
+      "feature_code": "PPL",
+      "country_code": "UG",
+      "admin1": "Western Region",
+      "timezone": "Africa/Kampala",
+      "country": "Uganda"
+    }
+  ],
+  "generationtime_ms": 0.18
+}
+
