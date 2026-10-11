@@ -90,8 +90,6 @@ The payroll order used for this assignment is: determine gross cash pay (salary 
 
 ## Regulatory and API sources
 
-Accessed 7 October 2026:
-
 - Uganda Revenue Authority, [PAYE rates](https://ura.go.ug/en/domestic-taxes/paye-rates/) - resident and non-resident monthly schedules.
 - Uganda Revenue Authority, [Changes to PAYE return following the Income Tax (Amendment) Act, 2026](https://ura.go.ug/en/changes-to-paye-return-form-following-the-income-tax-amendment-act-2026/) - 1 July 2026 effective date.
 - Uganda Revenue Authority, [A Guide to Taxation in Uganda, FY 2023/24](https://ura.go.ug/wp-content/uploads/2024/06/Taxation-handbook-FY2023-24.pdf) - VAT and corporate-tax background.
